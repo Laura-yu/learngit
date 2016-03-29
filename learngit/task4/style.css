@@ -1,0 +1,31 @@
+﻿.main
+{
+	width: 400px;
+	height: 200px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin: -100px 0 0 -200px;
+	background: #ccc;
+	overflow: hidden;
+}
+.top_left
+{
+	background: #fc0;
+	border-radius: 50px;
+	height: 100px;
+	width: 100px;
+	position: absolute;
+	left: -50px;
+	top: -50px;
+}
+.bottom_right
+{
+	background: #fc0;
+	border-radius: 50px;
+	height: 100px;
+	width: 100px;
+	position: absolute;
+	bottom: -50px;
+	right: -50px;
+}
